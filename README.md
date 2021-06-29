@@ -18,11 +18,11 @@ Run the command python manage.py runserver
 
 **Events Screen**
 
-![]()
+![](https://i.imgur.com/r6W280s.png)
 
 **Event Details Screen**
 
-![]()
+![](https://i.imgur.com/4DBZoGv.png)
 
 
 ## Contributing
