@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-7e%y5+hfwx8tlq45)%os8t1h)727o1+9-dm8fmv!fg**)er4am'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://meetupsevents.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
